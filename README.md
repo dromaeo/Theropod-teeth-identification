@@ -1,4 +1,4 @@
-# Theropod-teeth-classification
+# Theropod-teeth-identification
 Python project (Final for "Advanced programming" course 2023). 
 
 Given measurements for Theropod dinosaur teeth, exploratory data analysis is performed through different methods. A machine learning algorithm is trained to be able to classify taxa in a new dataset at different gerarchic levels.
