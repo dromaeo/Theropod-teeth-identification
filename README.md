@@ -8,6 +8,7 @@ This project roughly follows the pipeline presented in https://onlinelibrary.wil
 Input files are:
 
 -'fulldataset' for the training data
+
 -'UK bathonian teeth' the dataset that needs to be classified.
 
 The output contains: PCA, k-means and hierarchical clustering, linear discriminant analysis, random forest classifier
