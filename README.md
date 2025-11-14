@@ -5,7 +5,9 @@ Given measurements for Theropod dinosaur teeth, exploratory data analysis is per
 
 This project roughly follows the pipeline presented in https://onlinelibrary.wiley.com/doi/10.1002/spp2.1487 
 
-Input files are 
+Input files are:
+
 -'fulldataset' for the training data
 -'UK bathonian teeth' the dataset that needs to be classified.
+
 The output contains: PCA, k-means and hierarchical clustering, linear discriminant analysis, random forest classifier
